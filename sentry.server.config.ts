@@ -5,5 +5,5 @@ Sentry.init({
 
   tracesSampleRate: 1,
 
-  debug: false,
+  debug: true,
 });
